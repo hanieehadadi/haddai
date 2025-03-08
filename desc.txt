@@ -1,0 +1,3 @@
+name: hanie haddadi
+user: haddai@gmail.com
+this project is practical for learning git
