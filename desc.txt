@@ -1,3 +1,5 @@
 name: hanie haddadi
 user: haddai@gmail.com
 this project is practical for learning git
+ this project is about botnet detection. first of all we want to write python code that used preproccesing alg
+
